@@ -1,0 +1,7 @@
+
+indentation works like in python
+css, js file paths starting from public directory
+
+element.class(properties)
+form.form-horizontal(method="post", id="loginForm" )
+

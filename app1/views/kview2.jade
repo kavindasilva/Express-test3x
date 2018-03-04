@@ -3,11 +3,15 @@ extends ksuper
 
 block content
       div.top
-        form.form-horizontal(method="post", id="loginForm")
+        form.form-horizontal(method="post", id="loginForm" )
           label Username
           input.span3(id="username", type="text", name="User", placeholder="Enter your username")
+          br
+
           label Password
           input.span3(id="password", type="password", name="Password")
+          br
+          
           input.btn(type="submit", value="Log In")
       div.container
         div.content
