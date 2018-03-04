@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"templ",
+				"tempfile"
+			],
+			[
+				"op",
+				"openTab"
+			],
+			[
+				"fill",
+				"fillNum"
+			],
+			[
+				"ks",
+				"ks_fillGPA"
+			],
+			[
+				"rt",
+				"rtype"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"rmo",
+				"rmonth"
+			],
+			[
+				"lo",
+				"loadReport"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cu",
+				"curDay"
+			],
+			[
+				"dat",
+				"datsplit"
+			],
+			[
+				"da",
+				"datsplit"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"cur",
+				"curDay"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ele",
+				"eleId"
+			],
+			[
+				"e",
+				"getElementById"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"spl",
+				"splitTo"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"fro",
+				"fromDate"
+			],
+			[
+				"on",
+				"onchange\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"User",
+				"Username"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/temp/sware/sublime3portable/Data/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/supplier/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/Stock_Manager/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/sales_executive/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/report/reports2.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/Customer/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/Dealer/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/import_manager/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/cheif_manager/sess.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/cheif_manager/index.php",
+		"/C/xampp/htdocs/ucsc1/SKM/report/monthsales.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/cheif_manager/report1.php",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/adduser.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/sales_executive/neworder.php",
+		"/C/xampp/htdocs/ucsc1/SKM/Dashbord/cheif_manager/chiefmgr.js",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/viewMgr.php",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/viewAll.php",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/adminFun.js",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/editUserUI.php",
+		"/C/xampp/htdocs/ucsc1/SKM/admin/editUser.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
